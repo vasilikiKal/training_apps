@@ -5,6 +5,7 @@ public class Program
 {
     static void Main(string[] args)
     {
+        //Hello vicky. this is eneas
         //Candidate candidates = new Candidate();
         //string picked_candidate = candidates.RandomPick();
         //Interviewer myinterviewer = new Interviewer();
